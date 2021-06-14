@@ -70,7 +70,7 @@ After 7  years of experience in Android development, I have been on both sides a
 Cracking a technical job interview can be a challenging task and we have to be prepared to demonstrate our knowledge. That's why I decided to create this study guide according to my experiences and try to keep it updated to help others and myself get the dream job when facing a new interview. 
 Feel free to make a pull request and collaborate.
 
-note: References is thanks to all the authors of the blogs, stackoverflow posts and the android community in general for the great online content.
+note: References come from authors of the blogs, stackoverflow posts and the online android community.
 
 Enjoy it ;)
 
