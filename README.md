@@ -66,7 +66,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About
-After The idea of this project 
+After 7  years of experience in Android development, I have been on both sides as an interviewer and as a candidate.
+Cracking a technical job interview can be a challenging task and we have to be prepared to demonstrate our knowledge. That's why I decided to create this study guide according to my experiences and try to keep it updated to help others and myself get the dream job when facing a new interview. 
+Feel free to make a pull request and collaborate.
+
+Enjoy it ;)
 
  ## Fundamentals
  🙂
