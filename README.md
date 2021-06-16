@@ -108,7 +108,7 @@ Enjoy it ;)
 ```
 -Gradle settings
 -Build config
--Builtypes
+-BuildTypes
 -Signing configuration
 -Android keystore
 -Flavors
@@ -132,7 +132,7 @@ Enjoy it ;)
 -Recycler adapter why list adapter, Adapter viewholder,onbindviewholder,oncreateviewholder definitions
 -Diff call utils
 -UX patterns
-
+-Jetpack Compose
 ```
 
 ## Best_Practices
@@ -146,11 +146,11 @@ Enjoy it ;)
 * ✔️ Png to webp/ vector smaller apk 
 
 
-## Arquitecture 
+## Architecture 
 😎
 * ✔️ MVVM  :[ Reference](https://devexperto.com/arquitecturas-android/)
 * ✔️ MVVM vs MVC vs MVI :[ Reference](https://www.mobindustry.net/mvc-vs-mvp-vs-mvvm-vs-mvi-choosing-an-architecture-for-android-app/)
-* ✔️ Clean Arquitecture  :[ Reference](https://stackoverflow.com/questions/58484680/what-is-difference-between-mvvm-with-clean-architecture-and-mvvm-without-clean-a)
+* ✔️ Clean Architecture  :[ Reference](https://stackoverflow.com/questions/58484680/what-is-difference-between-mvvm-with-clean-architecture-and-mvvm-without-clean-a)
 * ✔️ SaveStateHandle advantages
 
 ## Network 
@@ -161,7 +161,7 @@ Enjoy it ;)
 ✔️ Parcelable vs Serializable
 ✔️ Okhttp
 ✔️ Interceptors
-✔️ Glide vs Picasso vs Koil
+✔️ Glide vs Picasso vs coil
 ```
 
 ## Firebase 
@@ -207,11 +207,11 @@ Enjoy it ;)
 👌
 * ✔️ AndroidX:[ Reference](https://developer.android.com/jetpack/androidx)
 * ✔️ Jetpack :[ Reference](https://developer.android.com/jetpack)
-* ✔️ Arquitecture components :[ Reference](https://developer.android.com/topic/libraries/architecture)
+* ✔️ Architecture components :[ Reference](https://developer.android.com/topic/libraries/architecture)
 * ✔️ Flow – Livedata :[ Reference](https://devexperto.com/stateflow-kotlin/)
 * ✔️ Coroutines Advantages coroutines vs rx java, rx android :[ Reference]()
-* ✔️ Room :[ Reference]()
-* ✔️ Pagin :[ Reference]()
+* ✔️ Room :[ Reference](https://developer.android.com/training/data-storage/room)
+* ✔️ Paging :[ Reference](https://developer.android.com/topic/libraries/architecture/paging/v3-overview)
 
 
 
