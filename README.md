@@ -127,7 +127,7 @@ Enjoy it ;)
 ## UI 
 🧑‍🎨
 ```
--Viewbindings vs databinding vs kotlin sintetics
+-Viewbindings vs databinding vs kotlin synthetics
 -RecyclerView.Adapter.StateRestorationPolicy
 -Recycler adapter why list adapter, Adapter viewholder,onbindviewholder,oncreateviewholder definitions
 -Diff call utils
