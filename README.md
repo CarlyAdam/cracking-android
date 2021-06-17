@@ -137,7 +137,7 @@ Enjoy it ;)
 
 ## Best_Practices
 💪
-* ✔️ Design Patterns :[ Reference](https:/www.raywenderlich.com/18409174-common-design-patterns-and-app-architectures-for-android)
+* ✔️ Design Patterns :[ Reference](https://www.raywenderlich.com/18409174-common-design-patterns-and-app-architectures-for-android)
 * ✔️ SOLID :[ Reference](https://profile.es/blog/principios-solid-desarrollo-software-calidad/)
 * ✔️ Inversion Control vs dependency injection  :[ Reference](https://stackoverflow.com/questions/6550700/inversion-of-control-vs-dependency-injection)
 * ✔️ HILT  vs Koin vs Dagger 2  :[ Reference](https://proandroiddev.com/how-dagger-hilt-and-koin-differ-under-the-hood-c3be1a2959d7?gi=584e22c8ecd2)
